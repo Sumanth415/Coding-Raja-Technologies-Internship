@@ -34,3 +34,9 @@ Features:
 3. Expense Analysis: Provide insights by categorizing expenses and displaying spending trends.
 4. Data Persistence: Store transactions in a file/database for tracking over time.
 ```
+
+
+**Sample Output:** 
+
+
+![trackeroutput](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/assets/114347927/674bba68-353a-4c90-8745-269f9041393c)
