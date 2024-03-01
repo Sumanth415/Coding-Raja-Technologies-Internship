@@ -17,6 +17,11 @@ Tech Stack:
 2. File handling or a simple database library
 ```
 
+
+**Sample Output:** 
+![list output](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/assets/114347927/e15ee409-3bbb-48f5-a338-7980acdc4b97)
+
+
 **2. Task 2:** [Task 2](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/blob/main/task2)
 ```
 Description: Develop a console-based budget tracker that allows users to manage their expenses and income.
