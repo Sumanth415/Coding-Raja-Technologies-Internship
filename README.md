@@ -20,9 +20,7 @@ Tech Stack:
 
 **Sample Output:** 
 
-![t1output](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/assets/114347927/7adfa038-d430-4a3f-9ee0-e9![Screenshot 2024-03-13 112739](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/assets/114347927/b0b04b74-c7bf-4470-8ad2-d81a53ee76e7)
-a7a1537d29)
-
+![Screenshot 2024-03-13 112739](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/assets/114347927/f0e75cc1-14fe-4ff7-8f32-075578302b54)
 
 
 **2. Task 2:** [Task 2](https://github.com/Sumanth415/Coding-Raja-Technologies-Internship/blob/main/task2)
